@@ -1,0 +1,13 @@
+Control Plane:
+----------------------------------------------
+API Server:
+
+Kube-Scheduler
+Kube-Controller
+Etcd
+
+Data Plane:
+----------------------------------------------
+Kubelet
+Kube-Proxy
+Container-Runtime
